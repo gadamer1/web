@@ -1,5 +1,8 @@
 <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/263e3q1M2Y2r3L1X3c2y/helmet.png" width=75px height=75px alt="Gitcoin logo">
 
+# ainize Button
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gadamer1/web)
+
 # Gitcoin
 
 Gitcoin Grows Open Source. Learn more at [https://gitcoin.co](https://gitcoin.co)
